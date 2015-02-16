@@ -1,0 +1,7 @@
+[server]
+uri = "0.0.0.0:514"
+grayloghostname = "10.0.2.15"
+graylogport = 12201
+[filter]
+tag = "test"
+message = "test"
